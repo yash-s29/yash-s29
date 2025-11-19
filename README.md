@@ -82,6 +82,21 @@
   </a>
 </p>
 
+### 🔹 **Deployment / Hosting**
+<p align="left">
+
+  <!-- Vercel -->
+  <a href="https://vercel.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="45"/>
+  </a>
+
+  <!-- Render -->
+  <a href="https://render.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg" height="45"/>
+  </a>
+
+</p>
+
 ### 🔹 **CMS**
 <p align="left">
   <a href="https://wordpress.org/">
