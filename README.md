@@ -77,6 +77,9 @@
   <a href="https://dev.mysql.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
   </a>
+   <a href="https://mariadb.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="45"/>
+  </a>
 </p>
 
 ### 🔹 **CMS**
@@ -121,6 +124,11 @@
   <a href="https://www.phpmyadmin.net/">
     <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white"/>
   </a>
+</p>
+
+### 🔹 **Most Used Languages**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="200"/>
 </p>
 
 ## 📊 GitHub Stats
