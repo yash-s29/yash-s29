@@ -10,7 +10,7 @@
 
 📫 **Reach me at:** *yp664003@gmail.com*  
 
-⚡ **Fun fact:** I build faster than I forget — and somehow everything works.
+⚡ **Fun fact:** I build faster than I forget—and somehow everything works.
 
 ---
 
@@ -161,7 +161,7 @@
 <p align="left">
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/yash-patil/">
+  <a href="https://www.linkedin.com/in/yash-patil-473a13352">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
