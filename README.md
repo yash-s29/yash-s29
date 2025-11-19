@@ -25,9 +25,23 @@
 ## 🚀 About Me
 - Passionate about building full-stack applications & analyzing data.
 - Exploring cloud, AI, and automation.
-- Always curious — always learning.
+- Always curious—always learning.
 
 ---
+## 🔗 Connect With Me
+<p align="left">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/yash-patil-473a13352">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/yash-s29">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+</p>
 
 ## 🧰 Tech Stack
 
@@ -157,19 +171,5 @@
 
 ---
 
-## 🔗 Connect With Me
-<p align="left">
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/yash-patil-473a13352">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/yash-s29">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-</p>
 
 
