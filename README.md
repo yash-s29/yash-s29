@@ -10,7 +10,7 @@
 
 📫 **Reach me at:** *yp664003@gmail.com*  
 
-⚡ **Fun fact:** I build faster than I forget—and somehow everything works.
+⚡ **Fun fact:** I build faster than I forget-and somehow everything works.
 
 ---
 
@@ -25,9 +25,10 @@
 ## 🚀 About Me
 - Passionate about building full-stack applications & analyzing data.
 - Exploring cloud, AI, and automation.
-- Always curious—always learning.
+- Always curious-always learning.
 
 ---
+
 ## 🔗 Connect With Me
 <p align="left">
 
@@ -42,6 +43,7 @@
   </a>
 
 </p>
+
 
 ## 🧰 Tech Stack
 
