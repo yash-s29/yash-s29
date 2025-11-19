@@ -91,9 +91,9 @@
   </a>
 
    <!-- Render -->
-  <a href="https://render.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg" height="45"/>
-  </a>
+<a href="https://render.com/">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</a>
 
 </p>
 
@@ -145,14 +145,11 @@
 
 ### 🔹 **Most Used Languages**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-s29&layout=compact&theme=tokyonight" height="200"/>
 </p>
+
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yash-s29&theme=tokyonight" height="200"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yash-s29&show_icons=true&theme=tokyonight" height="200"/>
