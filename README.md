@@ -1,6 +1,6 @@
 ## 🚀 Overview
 
-🔭 **Currently working on:** Prodigy InfoTech ML & Web Development projects  
+🔭 **Currently working on:** Prodigy InfoTech ML Internship projects  
 
 🌱 **Currently learning:** React, Vite, MongoDB, PHP, WordPress, SQL, Python, Data Analytics ,PowerBi
 
