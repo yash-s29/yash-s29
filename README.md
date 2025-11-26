@@ -162,17 +162,14 @@
 
 ### 🔹 **Most Used Languages**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-s29&layout=compact&theme=tokyonight**&v=1**" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-s29&layout=compact&theme=tokyonight&v=3" height="200"/>
 </p>
 
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash-s29&show_icons=true&theme=tokyonight&**cache_buster=1**" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yash-s29&show_icons=true&theme=tokyonight&cache_buster=3" height="200"/>
 </p>
-
----
-
 
 
