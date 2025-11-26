@@ -162,10 +162,11 @@
 
 ## 🔥 GitHub Stats Widgets
 
-### 🟦 GitHub Streak Stats
+## 🔥 Most Used Languages
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yash-s29&theme=tokyonight" />
+  <img src="./metrics.svg" alt="Most Used Languages"/>
 </p>
+
 
 ### 🟩 GitHub Profile Trophy
 <p align="center">
