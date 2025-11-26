@@ -161,14 +161,12 @@
 </p>
 
 ### 🔹 **Most Used Languages**
-<p align="center">
-  <img src="https://[YOUR-VERCEL-DOMAIN].vercel.app/api/top-langs/?username=yash-s29&layout=compact&theme=tokyonight" height="200"/>
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-s29&layout=compact&theme=tokyonight" height="200" />
 </p>
-
----
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://[YOUR-VERCEL-DOMAIN].vercel.app/api?username=yash-s29&show_icons=true&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yash-s29&show_icons=true&theme=tokyonight" height="200" />
 </p>
+
