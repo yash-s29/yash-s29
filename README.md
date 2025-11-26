@@ -160,13 +160,20 @@
   </a>
 </p>
 
-### 🔹 **Most Used Languages**
- <p align="center">
- <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=yash-s29&show_icons=true&theme=tokyonight" />
+## 🔥 GitHub Stats Widgets
+
+### 🟦 GitHub Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yash-s29&theme=tokyonight" alt="GitHub Streak Stats"/>
 </p>
 
-## 📊 GitHub Stats
+### 🟩 GitHub Profile Trophy
 <p align="center">
- <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=yash-s29&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yash-s29&theme=tokyonight" alt="GitHub Trophies"/>
+</p>
+
+### 🟨 GitHub Metrics
+<p align="center">
+  <img src="https://metrics.lecoq.io/yash-s29" alt="GitHub Metrics"/>
 </p>
 
