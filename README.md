@@ -164,7 +164,7 @@
 
 ### 🟦 GitHub Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yash-s29&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=yash-s29&theme=tokyonight" />
 </p>
 
 ### 🟩 GitHub Profile Trophy
