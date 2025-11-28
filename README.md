@@ -160,7 +160,6 @@
   </a>
 </p>
 
-## 🔥 GitHub Stats Widgets
 
 ## 🔥 Most Used Languages
 <p align="center">
@@ -173,8 +172,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=yash-s29&theme=tokyonight" alt="GitHub Trophies"/>
 </p>
 
-### 🟨 GitHub Metrics
-<p align="center">
-  <img src="https://metrics.lecoq.io/yash-s29" alt="GitHub Metrics"/>
-</p>
 
