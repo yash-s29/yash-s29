@@ -1,6 +1,6 @@
 ## 🚀 Overview
 
-🔭 **Currently working on:** Prodigy InfoTech ML Internship projects  
+🔭 **Currently working on:** Edunet (Shell India Association) Advaanced course ML Models  
 
 🌱 **Currently learning:** React, Vite, MongoDB, PHP, WordPress, SQL, Python, Data Analytics ,PowerBi
 
