@@ -8,7 +8,7 @@
 
 💬 **Ask me about:** Full-stack development, ML models, databases, analytics tools, web frameworks  
 
-📫 **Reach me at:** *yp664003@gmail.com*  
+📫 **Reach me at:** *yp1664003@gmail.com*  
 
 ⚡ **Fun fact:** I build faster than I forget-and somehow everything works.
 
@@ -34,7 +34,7 @@
 <p align="left">
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/yash-patil-473a13352">
+  <a href="https://www.linkedin.com/in/yash-patil279">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
