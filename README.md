@@ -1,6 +1,6 @@
 ## 🚀 Overview
 
-🔭 **Currently working on:** Microsoft Elevate  
+🔭 **Currently working on:** Software Testing Learning
 
 🌱 **Currently learning:** (Java and MERN) Full stack, Software Testing, React, Vite, MongoDB, PHP, WordPress, SQL, Python, Data Analytics ,PowerBi
 
