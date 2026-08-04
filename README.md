@@ -2,7 +2,7 @@
 
 🔭 **Currently working on:** Microsoft Elevate  
 
-🌱 **Currently learning:** React, Vite, MongoDB, PHP, WordPress, SQL, Python, Data Analytics ,PowerBi
+🌱 **Currently learning:** (Java and MERN) Full stack, Software Testing, React, Vite, MongoDB, PHP, WordPress, SQL, Python, Data Analytics ,PowerBi
 
 🤝 **Looking for help with:** Scaling real-world ML/AI projects  
 
@@ -18,7 +18,7 @@
 
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Yash Patil</h1>
-<h3 align="center"> | Data Analyst | Power BI | Full-Stack [MERN] | </h3>
+<h3 align="center"> | Data Analyst | Power BI | Full-Stack [Java & MERN] | </h3>
 
 ---
 
