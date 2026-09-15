@@ -254,55 +254,47 @@
 
 </p>
 
----
-<!-- ============================= -->
-
-<!--       GITHUB STATISTICS       -->
-
-<!-- ============================= -->
-
-## 📊 GitHub Statistics
+## 📊 GitHub Profile
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=yash-s29&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Yash Patil GitHub Statistics"
-  />
+  <a href="https://github.com/yash-s29">
+    <img
+      src="https://img.shields.io/github/followers/yash-s29?label=Followers&style=for-the-badge"
+      alt="GitHub Followers"
+    />
+  </a>
+
+  <a href="https://github.com/yash-s29?tab=repositories">
+    <img
+      src="https://img.shields.io/github/stars/yash-s29?style=for-the-badge"
+      alt="GitHub Stars"
+    />
+  </a>
+
+  <a href="https://github.com/yash-s29">
+    <img
+      src="https://komarev.com/ghpvc/?username=yash-s29&style=for-the-badge&label=PROFILE+VIEWS"
+      alt="Profile Views"
+    />
+  </a>
 </p>
-
----
-
-<!-- ============================= -->
-
-<!--       MOST USED LANGUAGES     -->
-
-<!-- ============================= -->
-
-## 🔥 Most Used Languages
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-s29&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
-    alt="Yash Patil Most Used Languages"
-  />
+  <a href="https://github.com/yash-s29?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View GitHub Repositories"
+    />
+  </a>
+
+  <a href="https://github.com/yash-s29?tab=stars">
+    <img
+      src="https://img.shields.io/badge/Explore-My%20GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explore GitHub"
+    />
+  </a>
 </p>
 
----
-
-<!-- ============================= -->
-
-<!--        GITHUB ACTIVITY        -->
-
-<!-- ============================= -->
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=yash-s29&theme=tokyo-night&hide_border=true"
-    alt="Yash Patil GitHub Activity Graph"
-  />
-</p>
 
 
 <p align="center">
