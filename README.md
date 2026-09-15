@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Yash Patil</h1>
 
 <h3 align="center">
-  Data Analyst | Power BI | Full-Stack Developer | ML/AI
+  Data Analyst | Power BI | Full-Stack Developer[Mern & Java] | ML/AI
 </h3>
 
 <p align="center">
@@ -308,21 +308,6 @@ src="https://github-profile-trophy.vercel.app/?username=yash-s29&theme=tokyonigh
 alt="Yash Patil GitHub Trophies"
 />
 
-</a>
-
-</p>
-
----
-
-## ⭐ Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/yash-s29">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=yash-s29&repo=smart-retail-intelligence-platform&theme=tokyonight&hide_border=true"
-    alt="Smart Retail Intelligence Platform"
-  />
 </a>
 
 </p>
