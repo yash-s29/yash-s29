@@ -255,64 +255,55 @@
 </p>
 
 ---
+<!-- ============================= -->
 
-# 📊 GitHub Statistics
+<!--       GITHUB STATISTICS       -->
+
+<!-- ============================= -->
+
+## 📊 GitHub Statistics
 
 <p align="center">
-
-<a href="https://github.com/yash-s29">
   <img
     src="https://github-readme-stats.vercel.app/api?username=yash-s29&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Yash Patil GitHub Stats"
+    alt="Yash Patil GitHub Statistics"
   />
-</a>
-
 </p>
 
 ---
 
-# 🔥 Most Used Languages
+<!-- ============================= -->
+
+<!--       MOST USED LANGUAGES     -->
+
+<!-- ============================= -->
+
+## 🔥 Most Used Languages
 
 <p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-s29&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
-alt="Yash Patil Most Used Languages"
-/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-s29&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
+    alt="Yash Patil Most Used Languages"
+  />
 </p>
 
 ---
 
-# 📈 GitHub Activity
+<!-- ============================= -->
+
+<!--        GITHUB ACTIVITY        -->
+
+<!-- ============================= -->
+
+## 📈 GitHub Activity
 
 <p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=yash-s29&theme=tokyo-night&hide_border=true"
-alt="Yash Patil GitHub Activity Graph"
-/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=yash-s29&theme=tokyo-night&hide_border=true"
+    alt="Yash Patil GitHub Activity Graph"
+  />
 </p>
 
----
-
-# 🟩 GitHub Profile Trophy
-
-<p align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=yash-s29&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=2&column=6"
-alt="Yash Patil GitHub Trophies"
-/>
-
-</a>
-
-</p>
-
----
 
 <p align="center">
   <b>🚀 Building • 📊 Analyzing • 🤖 Learning • 💡 Creating</b>
