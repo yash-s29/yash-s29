@@ -164,9 +164,9 @@
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" height="48" alt="Render"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://neon.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neon/neon-original.svg" width="48" height="48" alt="Neon"/>
-</a>&nbsp;&nbsp;
+<!-- Neon -->
+
+<a href="https://neon.com/"> <img src="https://neon.com/brand/neon-logo-dark-color.svg" height="45" alt="Neon"/> </a>
 
 <a href="https://aws.amazon.com/s3/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="90" height="48" alt="Amazon Web Services"/>
